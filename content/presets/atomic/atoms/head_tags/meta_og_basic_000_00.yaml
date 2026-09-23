@@ -1,0 +1,6 @@
+preset:
+  _og:title: ".Title"
+  _og:type: og type
+  _og:url: ".Permalink"
+  _og:image: /defaults/meta_tag_default_image.png
+  og:description: og description

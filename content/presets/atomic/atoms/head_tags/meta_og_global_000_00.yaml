@@ -1,0 +1,3 @@
+preset:
+  # Child OG global. Active when layouts part._preset → preset.
+  og:site_name: Hugo Agent Zero (site_name)

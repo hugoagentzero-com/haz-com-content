@@ -1,0 +1,8 @@
+preset:
+  # Child site performance link lists. Active when layouts part._preset → preset.
+  links:
+    preload:
+      - href: /haz/fonts/Atkinson%20Hyperlegible/Next/AtkinsonHyperlegibleNext-VariableFont_wght.ttf
+        as: font
+        type: font/ttf
+        crossorigin: anonymous

@@ -1,0 +1,12 @@
+preset:
+  # Child HTML global. Active when layouts part._preset → preset.
+  copyright: 2026 Hugo Agent Zero Child
+  theme-name: Hugo Agent Zero
+  format-detection: telephone=no
+  color-scheme: light dark
+  theme-color:
+    - content: "#111111"
+    - content: "#ffffff"
+      media: "(prefers-color-scheme: light)"
+    - content: "#0b1220"
+      media: "(prefers-color-scheme: dark)"

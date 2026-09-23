@@ -1,0 +1,3 @@
+preset:
+  # Child Apple basic (optional). Active when layouts part._preset → preset.
+  _apple-mobile-web-app-status-bar-style: default

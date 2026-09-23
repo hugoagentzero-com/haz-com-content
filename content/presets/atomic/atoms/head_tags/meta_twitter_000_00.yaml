@@ -1,0 +1,9 @@
+preset:
+  # Child Twitter card. Active when layouts part._preset → preset.
+  twitter:card: summary_large_image
+  twitter:site: "@site_handle"
+  twitter:creator: "@author_handle"
+  twitter:title: ".Title"
+  twitter:description: default description text
+  twitter:image: /defaults/meta_tag_default_image.png
+  twitter:image:alt: twitter image alt

@@ -1,0 +1,6 @@
+preset:
+  text_start: "CTA Simple Child 030: "
+  a_href:
+    enabled: true
+    attrs:
+      target: "_self"

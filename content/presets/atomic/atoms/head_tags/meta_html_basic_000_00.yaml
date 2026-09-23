@@ -1,0 +1,6 @@
+preset:
+  # Child: set robots to index,follow when the site is intentionally public.
+  _description: ""
+  author: Author Meta (default)
+  robots: index,follow
+  _canonical: ".Permalink"

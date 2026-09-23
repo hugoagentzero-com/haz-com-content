@@ -1,0 +1,7 @@
+preset:
+  # Child OG video. Active when layouts part._preset → preset.
+  # height: "101"
+  # width: "202"
+  # type: video/mp4
+  # collection:
+  #   - url: /defaults/meta_tag_default_video.mp4
