@@ -23,9 +23,13 @@ One of HAZ’s primary benefits is a **decoupled architecture**. Three Hugo modu
 
 There are two ways to get started:
 
-1. **Basic** — The fastest, most friction-free way to take HAZ for a spin. All GitHub (browser / GitHub UI). No local Hugo. Free sample: do A, B, C and in about X minutes you have a working site.
+{{< haz_do add="callout" type="steps" step="1" title="Basic" >}}
+The fastest, most friction-free way to take HAZ for a spin. All GitHub (browser / GitHub UI). No local Hugo. Free sample: do A, B, C and in about X minutes you have a working site.
+{{< /haz_do >}}
 
-2. **Standard** — While it’s possible to use Basic full time, once you fall in love with HAZ you’ll likely want to upgrade to Standard. Local Hugo, faster feedback, deeper child work. Same architecture — more control.
+{{< haz_do add="callout" type="steps" step="2" title="Standard" >}}
+While it’s possible to use Basic full time, once you fall in love with HAZ you’ll likely want to upgrade to Standard. Local Hugo, faster feedback, deeper child work. Same architecture — more control.
+{{< /haz_do >}}
 
 This guide assumes **GitHub** (repos + modules + Pages). Other hosts wait.
 
