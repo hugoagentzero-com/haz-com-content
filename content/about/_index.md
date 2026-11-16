@@ -5,9 +5,7 @@ layout: single
 
 ## Introduction
 
-Hugo Agent Zero (HAZ) is a human-friendly, forward-thinking Hugo **theme-work** for developers, agencies, and projects that want to use AI and still keep control.
-
-**Client-friendly. Developer-focused. Agents love it.**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Mission
 
