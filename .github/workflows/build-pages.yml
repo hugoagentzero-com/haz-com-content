@@ -28,7 +28,7 @@ jobs:
       - uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "0.152.2"
-          extended: false
+          extended: true
       - name: Use this content commit
         working-directory: site
         env:
