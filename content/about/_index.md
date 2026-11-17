@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 To craft a human-friendly but forward-thinking Hugo theme-work for developers, agencies, and projects that want to leverage AI and deliver consistent results, without conceding full control to agents.
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="important" title="Purpose Statement" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="happy" title="Purpose Statement" class="haz_force_site_primary haz_callout_icon_top" >}}
 To champion a static-site publishing tool that brings joy to clients, developers, and agents. A tool that is an alternative to the feature-bloat and "tech for tech’s sake" obsession of too many similar solutions.
 {{< /haz_do >}}
 
