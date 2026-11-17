@@ -26,7 +26,7 @@ When a project's needs are within HAZ's sweet spot, HAZ wants to be considered a
 {{< haz_do add="callout" type="love" title="Values Statement" class="haz_force_site_primary haz_callout_icon_top" >}}
 1. **Mobile-first** — The small screen experience comes first, as does a dedication to page speed and other such metrics.
 
-2. **KISS (Keep It Stupid Simple)** — From zero required dev tooling to leaning on established standards (e.g., Simple.css), HAZ chooses proven approaches and productivity over the latest shiny new objects.
+2. **KISS (Keep It Stupid Simple)** — From zero required dev tooling to leaning on established standards (e.g., Simple.css, Font Awesome free version), HAZ intentionally chooses proven experiences and productivity over the latest shiny new objects.
 
 3. **DRY (Don't Repeat Yourself)** — Emphasize reusable components and configuration over new construction. When a project spawns new components, those can be folded back into the core product's library, and will then be available to all other projects using HAZ core.
 
