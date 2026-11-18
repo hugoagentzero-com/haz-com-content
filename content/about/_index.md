@@ -3,9 +3,19 @@ title: About
 layout: single
 ---
 
-## Introduction
+{{< haz_do add="callout" type="user-circle" title="Introduction" class="haz_force_site_primary haz_callout_icon_top" >}}
+Hello world. It is I, that's is Simchock, Mark Simchock. I am the conductor leading the Hugo Agent Zero orchestra. 
+{{< /haz_do >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+{{< haz_do add="callout" type="understanding" title="The Moment" class="haz_force_site_primary haz_callout_icon_top" >}}
+I got tired of the friction from seeing a relatively simple website needing a stack of plugins, numerous dev tools, a temperamental build chain, hosting invoices that an occasional someone forgets to pay, and a CMS dashboard nobody on the client side wanted to learn properly. Too often feature bloat became too much. 
+
+I longed for a mobile-first, content-centric, back-to-basics tool.  
+
+I created HAZ because I wanted lighter and easier, yet still robust, flexible and with growth potential. I wanted something AI-first, not as a crutch but as a partner. I wanted a tool I could depend on, that reflected the depth and breadth of my experience in web design, user experience, performance optimization, SEO, web development, and most importantly meeting clients' business needs.  
+{{< /haz_do >}}
+
 
 {{< haz_do add="callout" type="go" title="Mission Statement" class="haz_force_site_primary haz_callout_icon_top" >}}
 To craft a human-friendly but forward-thinking Hugo theme-work for developers, agencies, and projects that want to leverage AI and deliver consistent results, without conceding full control to agents.
