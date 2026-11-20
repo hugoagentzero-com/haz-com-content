@@ -2,6 +2,9 @@
 title: About
 layout: single
 ---
+ {{< toc >}}
+
+ ## Backstory
 
 {{< haz_do add="callout" type="user-circle" title="Introduction" class="haz_force_site_primary haz_callout_icon_top" >}}
 Hello world. It is I, that's is Simchock, Mark F Simchock. I am the conductor leading the Hugo Agent Zero orchestra. 
@@ -37,6 +40,7 @@ In late 2025, HAZ was born.
 *[1] Shout out to [Micro.blog](https://micro.blog). Full disclosure: AFAIK, HAZ is not compatible with Micro.blog.*
 {{< /haz_do >}}
 
+## Mission Statement, Purpose Statement, Etc.
 
 {{< haz_do add="callout" type="go" title="Mission Statement" class="haz_force_site_primary haz_callout_icon_top" >}}
 To craft a human-friendly but forward-thinking Hugo theme-work for developers, agencies, and projects that want to leverage AI and deliver consistent results, without conceding full control to agents.
@@ -63,7 +67,7 @@ When a project's needs are within HAZ's sweet spot, HAZ wants to be considered a
 
 4. **Accessibility** — Make it part of the process. Always try to be mindful of the full range of needs of the wide spectrum of users on the internet.
 
-5. **Accept appropriate compromises** instead of chasing the gods of optimization, only to get a lightly rounder wheel.
+5. **Accept appropriate compromises** instead of chasing the gods of optimization, only to get a slightly rounder wheel.
 
 6. **Robust features, calm defaults** — Offer a robust range of features and settings but mitigate decision making with defaults that cover the most typical use cases. Allow defaults to be easily overridden.
 
