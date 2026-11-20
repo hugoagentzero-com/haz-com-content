@@ -2,11 +2,21 @@
 title: About
 layout: single
 ---
- {{< toc >}}
+## Table of Contents
 
- ## Backstory
+[Instrduction](#introduction)
+[The Pain](#the-pain)
 
-{{< haz_do add="callout" type="user-circle" title="Introduction" class="haz_force_site_primary haz_callout_icon_top" >}}
+
+{{< haz_do add="list" title="Table of Contents" >}}
+[Instrduction](#introduction)
+[The Pain](#the-pain)
+{{< /haz_do >}}
+
+
+ ### Backstory
+
+{{< haz_do add="callout" type="user-circle" title="Introduction" id="introduction" class="haz_force_site_primary haz_callout_icon_top" >}}
 Hello world. It is I, that's is Simchock, Mark F Simchock. I am the conductor leading the Hugo Agent Zero orchestra. 
 
 I'm also the Chief Executive Alchemist at Alchemy United. Soon I'll be relaunching AlchemyUnited.com, using HAZ, of course. But until then, here's where you can find me on LinkedIn: [https://www.linkedin.com/in/mfsimchock/](https://www.linkedin.com/in/mfsimchock/)
@@ -16,7 +26,7 @@ I've been working on internet-focused projects for approximately 30 years. The l
 If I'm not learning something new, or trying something new... I'm not breathing. 
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="sad" title="The Pain" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="sad" title="The Pain" id="the-pain" class="haz_force_site_primary haz_callout_icon_top" >}}
 Over time, I got tired of the friction from seeing a relatively simple website needing a stack of plugins, numerous dev tools, a temperamental build chain, hosting invoices that occasionally someone forgets to pay, and a CMS dashboard nobody on the client side wanted to learn properly. 
 
 More and more, feature bloat became a bug, not a feature. 
@@ -26,7 +36,7 @@ Can you dig it?
 The breaking point came with the WordPress drama over the last couple of years. I'm not anti-WordPress per se, but I finally admitted that I needed a safe, sane and dependable alternative, at least for some projects (including my own).
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="understanding" title="The Solution" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="understanding" title="The Solution" id="the-solution" class="haz_force_site_primary haz_callout_icon_top" >}}
 The goal was simple: Mobile-first, content-centric, a back-to-basics mindset, and yet forward-thinking.
 
 After poking around and reviewing different options, I found Hugo [1]. While I liked many of the off-the-shelf Hugo themes, I couldn't find one that I loved. 
@@ -40,13 +50,13 @@ In late 2025, HAZ was born.
 *[1] Shout out to [Micro.blog](https://micro.blog). Full disclosure: AFAIK, HAZ is not compatible with Micro.blog.*
 {{< /haz_do >}}
 
-## Mission Statement, Purpose Statement, Etc.
+### Idenity Statements
 
-{{< haz_do add="callout" type="go" title="Mission Statement" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="go" title="Mission Statement" id="mission" class="haz_force_site_primary haz_callout_icon_top" >}}
 To craft a human-friendly but forward-thinking Hugo theme-work for developers, agencies, and projects that want to leverage AI and deliver consistent results, without conceding full control to agents.
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="happy" title="Purpose Statement" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="happy" title="Purpose Statement" id="purpose" class="haz_force_site_primary haz_callout_icon_top" >}}
 To champion a static-site publishing tool that brings joy to clients, developers, and agents. A tool that is an alternative to the feature-bloat and "tech for tech’s sake" obsession of too many similar solutions.
 {{< /haz_do >}}
 
