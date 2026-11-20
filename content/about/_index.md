@@ -2,15 +2,10 @@
 title: About
 layout: single
 ---
-## Table of Contents
-
-[Instrduction](#introduction)
-[The Pain](#the-pain)
-
 
 {{< haz_do add="list" title="Table of Contents" >}}
-[Instrduction](#introduction)
-[The Pain](#the-pain)
+ - [Introduction](#introduction)
+ - [The Pain](#the-pain)
 {{< /haz_do >}}
 
 
