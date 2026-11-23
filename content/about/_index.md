@@ -18,7 +18,7 @@ layout: single
 
  ### Backstory
 
-{{< haz_do add="callout" type="user-circle" title="Introduction" id="introduction" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="user-circle" title="Introduction" title_tag="h3" id="introduction" class="haz_force_site_primary haz_callout_icon_top" >}}
 Hello world. It is I, that's is Simchock, Mark F Simchock. I am the conductor leading the Hugo Agent Zero orchestra. 
 
 I'm also the Chief Executive Alchemist at Alchemy United. Soon I'll be relaunching AlchemyUnited.com, using HAZ, of course. But until then, here's where you can find me on LinkedIn: [https://www.linkedin.com/in/mfsimchock/](https://www.linkedin.com/in/mfsimchock/)
@@ -28,7 +28,7 @@ I've been working on internet-focused projects for approximately 30 years. The l
 If I'm not learning something new, or trying something new... I'm not breathing. 
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="sad" title="The Pain" id="the-pain" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="sad" title="The Pain" title_tag="h7" id="the-pain" class="haz_force_site_primary haz_callout_icon_top" >}}
 Over time, I got tired of the friction from seeing a relatively simple website needing a stack of plugins, numerous dev tools, a temperamental build chain, hosting invoices that occasionally someone forgets to pay, and a CMS dashboard nobody on the client side wanted to learn properly. 
 
 More and more, feature bloat became a bug, not a feature. 
