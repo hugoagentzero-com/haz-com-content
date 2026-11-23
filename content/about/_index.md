@@ -20,7 +20,7 @@ layout: single
 
  ### Backstory
 
-{{< haz_do add="callout" type="user-circle" title="Introduction" id="introduction" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="user-circle" title="Introduction" id="introduction" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 Hello world. It is I, that's is Simchock, Mark F Simchock. I am the conductor leading the Hugo Agent Zero orchestra. 
 
 I'm also the Chief Executive Alchemist at Alchemy United. Soon I'll be relaunching AlchemyUnited.com, using HAZ, of course. But until then, here's where you can find me on LinkedIn: [https://www.linkedin.com/in/mfsimchock/](https://www.linkedin.com/in/mfsimchock/)
@@ -30,7 +30,7 @@ I've been working on internet-focused projects for approximately 30 years. The l
 If I'm not learning something new, or trying something new... I'm not breathing. 
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="sad" title="The Pain" id="the-pain" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="sad" title="The Pain" id="the-pain" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 Over time, I got tired of the friction from seeing a relatively simple website needing a stack of plugins, numerous dev tools, a temperamental build chain, hosting invoices that occasionally someone forgets to pay, and a CMS dashboard nobody on the client side wanted to learn properly. 
 
 More and more, feature bloat became a bug, not a feature. 
@@ -40,7 +40,7 @@ Can you dig it?
 The breaking point came with the WordPress drama over the last couple of years. I'm not anti-WordPress per se, but I finally admitted that I needed a safe, sane and dependable alternative, at least for some projects (including my own).
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="understanding" title="The Solution" id="the-solution" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="understanding" title="The Solution" id="the-solution" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 The goal was simple: Mobile-first, content-centric, a back-to-basics mindset, and yet forward-thinking.
 
 After poking around and reviewing different options, I found Hugo [1]. While I liked many of the off-the-shelf Hugo themes, I couldn't find one that I loved. 
@@ -56,23 +56,23 @@ In late 2025, HAZ was born.
 
 ### Identity Statements
 
-{{< haz_do add="callout" type="go" title="Mission Statement" id="mission" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="go" title="Mission Statement" id="mission" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 To craft a human-friendly but forward-thinking Hugo theme-work for developers, agencies, and projects that want to leverage AI and deliver consistent results, without conceding full control to agents.
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="happy" title="Purpose Statement" id="purpose" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="happy" title="Purpose Statement" id="purpose" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 To champion a static-site publishing tool that brings joy to clients, developers, and agents. A tool that is an alternative to the feature-bloat and "tech for tech’s sake" obsession of too many similar solutions.
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="focus" title="Vision Statement" id="vision" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="focus" title="Vision Statement" id="vision" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 When a project's needs are within HAZ's sweet spot, HAZ wants to be considered a viable, lighter-weight and lower-cost alternative to WordPress, Webflow, Wix, Squarespace, Framer, and the like. HAZ simply wants to be in the conversation when it's possibly the right tool for the need.
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="tip" title="Guiding Light" id="guiding-light" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="tip" title="Guiding Light" id="guiding-light" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 **The Client Test** guides product decisions. When in doubt ask, "Is this as client-friendly as possible?" While we want the technology to let developers and agencies feel as little restriction as possible, we also understand it's the clients who decide the value of the solution.
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="love" title="Values Statement" id="values" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="love" title="Values Statement" id="values" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 1. **Mobile-first** — The small screen experience comes first, as does a dedication to page speed and other such metrics.
 
 2. **KISS (Keep It Stupid Simple)** — From zero required dev tooling to leaning on established standards (e.g., Simple.css, Font Awesome free version), HAZ intentionally chooses proven experiences and productivity over the latest shiny new objects.
@@ -88,6 +88,6 @@ When a project's needs are within HAZ's sweet spot, HAZ wants to be considered a
 7. **Let Hugo be Hugo** when Hugo needs to be Hugo. HAZ is a mind-expanding supplement.
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="peace" title="Mantra" id="mantra" class="haz_force_site_primary haz_callout_icon_top" >}}
+{{< haz_do add="callout" type="peace" title="Mantra" id="mantra" title_tag="h4" class="haz_force_site_primary haz_callout_icon_top" >}}
 Better to do a great job for the few than a merely good job for the many.
 {{< /haz_do >}}
