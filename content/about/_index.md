@@ -3,7 +3,7 @@ title: About
 layout: single
 ---
 
-{{< haz_do add="list" title="Table of Contents" >}}
+{{< haz_do add="list_toc" >}}
  - [Introduction](#introduction)
  - [The Pain](#the-pain)
  - [The Solution](#the-solution)
