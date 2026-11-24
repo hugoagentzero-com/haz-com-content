@@ -1,5 +1,5 @@
 ---
-title: What Makes HAZ Special?
+title: How Much Joy Can HAZ Bring You?
 layout: single
 ---
 
