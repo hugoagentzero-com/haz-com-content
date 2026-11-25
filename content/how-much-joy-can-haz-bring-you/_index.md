@@ -4,11 +4,62 @@ layout: single
 ---
 
 {{< haz_do add="list_toc" >}}
-- [TODO](#todo)
+- [Features](#features)
 {{< /haz_do >}}
 
-{{< haz_do add="callout" type="deadline" title="Coming Soon" id="todo" title_tag="h4" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-{{< /haz_do >}}
+## Features 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Note: This is a WIP. Each of these will be fleshed out soon.
+
+- Architecture (Core / Child / Content)
+  - Hugo modules
+  - Core + Child
+  - Client-proof DX / Client Test
+
+- Router
+
+- Atomic Design / Atomic Partials
+
+- sysManifest
+
+- Presets
+
+- CM-esque (collections & filters)
+
+- Head tags (SEO / social / defaults)
+
+- Shortcode: haz_img
+  - mobile-first
+  - performance
+
+- Other Shortcodes
+  - haz_do
+  - haz_tbd
+
+- Settings
+  - head tag defaults
+  - Shortcode whitelist
+
+- Available out of the box
+  - Search (Pagefind)
+  - Blog paging / pager
+  - Light mode / Dark mode
+  - See also: Shortcodes
+
+- Accessibility
+  - Skip to main
+  - Default font {name}
+
+- But wait there's more...
+  - Zero required dev tooling
+  - Socials
+  - Back to Top
+  - Fluid type & measure
+  - Simple.css
+  - Dedicated taxonomy term pages, with descriptions, etc
+  - Posts meta box
+
+
+
+
+
