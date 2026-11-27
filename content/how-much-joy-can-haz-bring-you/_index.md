@@ -59,36 +59,61 @@ layout: single
 
   ------------------------------
 
-- Client-proof DX / Client Test
+- Additional HAZ shortcodes
+  - We love a straightforward mobile-first layout but all text and no eye candy makes HAZ a dull theme. Aside from the mentioned haz_img, HAZ Core also includes haz_do, and haz_tbd. The former has a number of options, the latter amounts to: if you can configure it in the sysManifest, you can place it in an .md with haz_tbd. These are another case of seeing is believing. 
+
+
+  - Benefit: TODO
+
+- Accessibility Matters
+  - As HAZ was built out, asking, "What about accessiblity?" was a common discussion with the agent. To that point, accessiblity is a process. It's not set it once and forget it. HAZ does its best to be mindful of accessibility, because the little things do add up. For example, the default font, Atkinson Hyperlegible, is considered a very good choice. Things like "Skip to main" and the blog's meta box using <dl><dt><dd> are examples of things HAZ has baked in.
+
+  Disclaimer: It would be disengeneuos of us to make broad hyperbolic claims about HAZ and accessiblity. We're always thinking about it, and trying our best. We hope that once the tool is in your hands you do the same. It would mean a lot to HAZ if you did. 
+
+  - Benefit: TODO 
 
 
 
-- Other Shortcodes
-  - haz_do
-  - haz_tbd
 
-- Settings
-  - head tag defaults
-  - Shortcode whitelist
+- Settings Galore
+  - HAZ is no different than any other tool, "Opinions are like agents, we all have them." That said, as often as possible HAZ allows its sensible defaults to be overridden, or provides some other configuration "hook".  We've already mentioned how many of the head tags have configurable defaults, which obviously pure genius. There's also the shortcodes whitelist that allows the dev / agency to limit the client's ability to (putting it bluntly) muck it up. 
 
-- Available out of the box
-  - Search (Pagefind)
+  - Benefit: TODO
+
+- Site Search via Pagefind
+  - Search is one of those things that keeps people away from static sites. "Nice work, but how do you find anything?" Pagefind is a Hugo search solution recommended by gohugo.io. HAZ followed that lead and built a set of Atomics in Core that make adding it absurdly easy: local assets, a HAZ modal, index after the Hugo build. No third-party account. No "please install a search module" homework.
+
+  Full disclosure: Pagefind itself is robust. We've been so focused on HAZ that we haven't pushed past basic site search — yet. For example, what do PF filters look like in the context of HAZ? Such exploration is on the HAZ TODO. 
+
+  - Benefit: Static doesn't mean "no search." Visitors can actually find the page.
+
+
+- Also Available Out of the Box
   - Blog paging / pager
+    - Link to blog post
   - Light mode / Dark mode
-  - See also: Shortcodes
-
-- Accessibility
-  - Skip to main
-  - Default font {name}
-
-- But wait there's more...
-  - Zero required dev tooling
-  - Socials
+    - Link to blog post
+  - Fluid type sizing
+    - Link to blog post
   - Back to Top
-  - Fluid type & measure
-  - Simple.css
+    - Link to blog post
+  - Zero required dev tooling
+  - Socials added and maintained via the Hugo CMS
+    - Link to blog post
+  - Reliable industry standard dependencies: Simple.css and Font Awesome (free)
+    - Link to blog posts
   - Dedicated taxonomy term pages, with descriptions, etc
-  - Posts meta box
+    - Link to blog post
+
+
+- But wait! There's more... to come...
+  - The beauty of HAZ's architecture (Atomics + sysManifest) is that new features can be added to Core, while those silos are optional to any Child projects downstream. In other words, Core's depth and breadth can grow without undermining your Child projects.  
+
+  In an ideal future, other developers and agencies will also contribute. They'll submit PRs - following HAZ's patterns and best practices - to Core. These PRs will be things that were initially implemented via a Child. 
+
+  - Benefit: TODO
+
+
 
 
 
